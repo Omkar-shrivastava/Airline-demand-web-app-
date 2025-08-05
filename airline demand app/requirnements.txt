@@ -1,0 +1,27 @@
+# ✈️ Airline Demand Web App
+
+An interactive web application built with Flask that analyzes airline booking demand using live API data. It helps visualize trends based on routes, pricing, and user demand, allowing users to explore flight insights via filters and dynamic charts.
+
+---
+
+## 🚀 Features
+
+- 🔍 **User Filters** – Search flights by source and destination
+- 🌐 **Live API Integration** – Uses AviationStack API to fetch flight data
+- 🧾 **Fallback System** – Shows mock data if live API fails
+- 📊 **Dynamic Visualizations** – Charts display route-wise price and demand
+- 📈 **Insight Summary** – Highlights most popular route, highest price, average values
+- 💡 **Interactive Dashboard** – With filters, charts, and live update
+
+---
+
+## 🛠️ Technologies Used
+
+- **Python 3**
+- **Flask**
+- **Pandas**
+- **Requests**
+- **HTML, CSS, Jinja2 Templates**
+- **Chart.js (via CDN)**
+
+
